@@ -5,7 +5,7 @@ var Convert = function(){
  document.body.innerHTML=document.body.innerHTML.replaceAll('。','にゃ。');
  document.body.innerHTML=document.body.innerHTML.replaceAll('！','にゃ！');
  document.body.innerHTML=document.body.innerHTML.replaceAll('？','にゃ？');
- document.body.innerHTML=document.body.innerHTML.replaceAll('する','するにゃ');
+ document.body.innerHTML=document.body.innerHTML.replaceAll('な','にゃ');
    }
 Convert();
 
